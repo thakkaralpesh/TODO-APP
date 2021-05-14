@@ -1,6 +1,6 @@
 {
   "name": "todo-app",
-  "homepage":"http://thakkaralpesh.github.io/TODO-APP",
+  "homepage":"http://thakkaralpesh.github.io/todoapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
